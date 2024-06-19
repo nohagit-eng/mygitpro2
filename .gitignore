@@ -1,0 +1,4 @@
+*.log
+!n.log
+packs\
+*.txt
